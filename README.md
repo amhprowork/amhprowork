@@ -17,7 +17,7 @@ Same thing, but split up into separate files:
     <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
   </thead>
   <tbody>
-    <tr><td>Bein Sports</td><td align="right">52</td><td nowrap><code>https://raw.githubusercontent.com/QusayBwayzeh/iptv/live/AlokaTV.m3u</code></td></tr>
+    <tr><td>Bein Sports</td><td align="right">52</td><td nowrap><code>https://raw.githubusercontent.com/soufixoo/test/main/pre.m3u</code></td></tr>
   </tbody>
 </table>
 
